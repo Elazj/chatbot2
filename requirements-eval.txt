@@ -1,0 +1,5 @@
+# Only needed for evaluate.py or if you set RETRIEVAL_METHOD = "embeddings"
+# in config.py. sentence-transformers pulls in PyTorch (a large download).
+-r requirements.txt
+sentence-transformers
+matplotlib

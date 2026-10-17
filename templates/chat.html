@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block title %}Nocturna{% endblock %}
+{% block head %}<meta name="csrf-token" content="{{ csrf_token() }}"><link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">{% endblock %}
+{% block body_class %}chat-page{% endblock %}
+{% block theme_toggle %}{% endblock %}
+{% block body %}
+<div class="app" id="app">
+
+  <aside class="sidebar" id="sidebar" aria-label="Sidebar">
+    <div class="sb-brand">
+      <span class="wordmark">Nocturna</span>
+      <button type="button" id="sb-collapse" class="icon-btn" aria-label="Collapse sidebar" title="Collapse sidebar" data-icon="panelclose"></button>
+    </div>
+
+    <!-- The ONLY navigation: New Chat, Chat History and Settings.
+         Profile, privacy and "clear chat history" live inside Settings. -->
+    <nav class="sb-nav" aria-label="Main">
+      <button type="button" id="nav-new" class="nav-item"><span class="ico" aria-hidden="true" data-icon="plus"></span> New Chat</button>
+      <button type="button" id="nav-history" class="nav-item active" aria-expanded="true" aria-controls="history-panel"><span class="ico" aria-hidden="true" data-icon="chat"></span> Chat History</button>
+      <div class="history" id="history-panel">
+        <input type="search" id="history-search" placeholder="Search conversations" aria-label="Search conversations" maxlength="100">
+        <div id="history-list" class="history-list" aria-live="polite"></div>
+      </div>
+      <div class="sb-spacer"></div>
+      <hr>
+      <button type="button" id="nav-settings" class="nav-item"><span class="ico" aria-hidden="true" data-icon="settings"></span> Settings</button>
+    </nav>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <section class="main">
+    <header class="topbar">
+      <button type="button" id="menu-btn" class="icon-btn mobile-only" aria-label="Open menu" data-icon="menu"></button>
+      <button type="button" id="sb-open" class="icon-btn desk-only" aria-label="Show sidebar" title="Show sidebar" data-icon="panelopen" hidden></button>
+      <h1 id="convo-title" class="convo-title">New chat</h1>
+      <div class="top-actions">
+        <button type="button" id="search-btn" class="icon-btn" aria-label="Search everything (Ctrl+K)" title="Search (Ctrl+K)" data-icon="search"></button>
+      </div>
+    </header>
+
+    <div id="ctxbar" class="ctxbar" hidden></div>
+    <main id="messages" class="messages" aria-live="polite" aria-label="Conversation"></main>
+
+    <div class="composer-wrap">
+      <form id="chat-form" class="composer" autocomplete="off">
+        <div class="plus-wrap">
+          <button type="button" id="plus-btn" class="icon-btn round" aria-label="Attach and study tools" aria-haspopup="true" aria-expanded="false" data-icon="plus"></button>
+          <div id="plus-menu" class="menu" role="menu" hidden></div>
+        </div>
+        <label for="chat-input" class="sr-only">Type your message</label>
+        <textarea id="chat-input" rows="1" placeholder="Ask about UTG or your documents…" maxlength="500" required></textarea>
+        <button type="button" id="mic-btn" class="icon-btn round" aria-label="Voice input" title="Voice input" data-icon="mic" hidden></button>
+        <button type="submit" class="primary" id="send-btn">Send</button>
+      </form>
+    </div>
+  </section>
+</div>
+<div id="modal-root"></div>
+<div id="toast-root" aria-live="polite"></div>
+<form id="logout-form" method="post" action="{{ url_for('auth.logout') }}" hidden><input type="hidden" name="csrf_token" value="{{ csrf_token() }}"></form>
+
+<script src="{{ url_for('static', filename='ui.js') }}"></script>
+<script src="{{ url_for('static', filename='panels_a.js') }}"></script>
+<script src="{{ url_for('static', filename='panels_b.js') }}"></script>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+{% endblock %}

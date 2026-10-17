@@ -1,0 +1,8 @@
+# Everything needed to run the chatbot (python app.py)
+Flask>=3.0
+scikit-learn
+pyjokes
+requests
+pypdf
+python-docx
+python-pptx

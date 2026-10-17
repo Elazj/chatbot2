@@ -1,0 +1,1329 @@
+{
+  "computer_science": {
+    "full_name": "BSc (Hons) Computer Science",
+    "department": "Department of Computer Science",
+    "school": "School of Information Technology and Communications (SITC)",
+    "total_credit_hours": 120,
+    "source": "BSc_Computer_Science.docx (semester-by-semester study plan), provided by student, accessed 2026",
+    "semesters": {
+      "Year 1 Semester 1": [
+        {
+          "code": "GEL 101",
+          "title": "Use of English I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 101",
+          "title": "Calculus I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 101",
+          "title": "Introduction to I.C.T.",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 102",
+          "title": "Introduction to Computing & I.S",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 103",
+          "title": "Programming Logic and Design",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 104",
+          "title": "Ethics for Computing and Engineering",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        }
+      ],
+      "Year 1 Semester 2": [
+        {
+          "code": "GEL 102",
+          "title": "Use of English 102",
+          "credits": 3,
+          "prerequisite": "GEL 101",
+          "category": "GER"
+        },
+        {
+          "code": "SCI 101",
+          "title": "Introduction to General Science",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 102",
+          "title": "Calculus II",
+          "credits": 3,
+          "prerequisite": "MTH 101",
+          "category": "DER"
+        },
+        {
+          "code": "GER 107",
+          "title": "Cultural Studies",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 110",
+          "title": "Computer Programming I",
+          "credits": 4,
+          "prerequisite": "ICT 103",
+          "category": "DER"
+        }
+      ],
+      "Year 2 Semester 1": [
+        {
+          "code": "FRE 101",
+          "title": "Elementary French I or any Foreign Language",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "PHY 101",
+          "title": "Fundamentals of Physics I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 201",
+          "title": "Computer Architecture & Organization",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 202",
+          "title": "Computer Programming II",
+          "credits": 4,
+          "prerequisite": "ICT 110",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 203",
+          "title": "Computer Networking I",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 204",
+          "title": "Database Systems I",
+          "credits": 4,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        }
+      ],
+      "Year 2 Semester 2": [
+        {
+          "code": "FRE 102",
+          "title": "Elementary French II or any Foreign",
+          "credits": 3,
+          "prerequisite": "FRE 101",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Humanistic Tradition (Choose 1 Outside Major)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 203",
+          "title": "Linear Algebra for Computer Science",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 210",
+          "title": "Data Structure & Algorithms",
+          "credits": 4,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 211",
+          "title": "Introduction to Operating Systems",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        }
+      ],
+      "Year 3 Semester 1": [
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Economics & Mgt. Tradition (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 301",
+          "title": "IT Project Management",
+          "credits": 3,
+          "prerequisite": "ICT 103",
+          "category": "DER"
+        },
+        {
+          "code": "CPS 301",
+          "title": "Microprocessor Principles",
+          "credits": 3,
+          "prerequisite": "ICT 201",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 302",
+          "title": "Automata and Languages",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 303",
+          "title": "Internet and Web Programming I",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 304",
+          "title": "Operating Systems II",
+          "credits": 3,
+          "prerequisite": "ICT 211",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 3 Semester 2": [
+        {
+          "code": "CPS 310",
+          "title": "Internet and Web Programming II",
+          "credits": 3,
+          "prerequisite": "CPS 302",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 311",
+          "title": "Computer Logic and Discrete Structures",
+          "credits": 3,
+          "prerequisite": "MTH 102",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 312",
+          "title": "Object Oriented Analysis and Design",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 313",
+          "title": "Computational Mathematics",
+          "credits": 3,
+          "prerequisite": "MTH 101",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 314",
+          "title": "Organization of Programming languages",
+          "credits": 3,
+          "prerequisite": "ICT 210",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 315",
+          "title": "Research Methodology in IT",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 1": [
+        {
+          "code": "CPS 401",
+          "title": "Parallel and Distributed Programming",
+          "credits": 3,
+          "prerequisite": "ICT 211",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 402",
+          "title": "Artificial Intelligence",
+          "credits": 3,
+          "prerequisite": "ICT 210",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 403",
+          "title": "Cloud Computing",
+          "credits": 3,
+          "prerequisite": "CPS 312",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 404",
+          "title": "Data Communications and Networks",
+          "credits": 3,
+          "prerequisite": "ICT 211",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 405",
+          "title": "Database Systems II",
+          "credits": 3,
+          "prerequisite": "ICT 204",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 406",
+          "title": "Seminar",
+          "credits": 3,
+          "prerequisite": "ICT 315",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 2": [
+        {
+          "code": "CPS 410",
+          "title": "Compiler Design and Interpreters",
+          "credits": 3,
+          "prerequisite": "CPS 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "CPS 419",
+          "title": "Final Year Project",
+          "credits": 6,
+          "prerequisite": "ICT 315",
+          "category": "MAJOR"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        }
+      ]
+    },
+    "electives": [
+      {
+        "code": "CPS 411",
+        "title": "LAN Administration",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 412",
+        "title": "Advance Application Development",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 413",
+        "title": "Object-Oriented Analysis and Design II",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 414",
+        "title": "Analysis and design of Algorithms",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 415",
+        "title": "Intelligent Systems",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 416",
+        "title": "Information Security and Ethical Hacking",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 417",
+        "title": "Big Data Analytics",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "CPS 418",
+        "title": "Computer Networking II",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      }
+    ],
+    "electives_note": "At least 12 credit hours (4 courses) of electives required, per the programme requirements overview.",
+    "major_requirements_overview": "To graduate with a major in Computer Science, students must complete a minimum of 120 credit hours total, including: all General Education Requirements (GER) of the University of The Gambia; all Divisional Educational Requirements (DER) of the School of Information Technology and Communications; all 57 credit hours of the eighteen (18) Computer Science core (MAJOR) courses; and at least 12 credit hours (4 courses) of Computer Science electives.",
+    "minor_offered": true,
+    "minor_overview": "A minor in Computer Science is available. As with the major, it requires a minimum of 120 overall credit hours including all University GER, and specifically includes all 57 credit hours of the same eighteen (18) Computer Science core courses used in the major. A detailed minor-specific course list wasn't available in a form consistent with the main study plan -- check with the Department of Computer Science for the current list."
+  },
+  "telecommunication": {
+    "full_name": "BSc Telecommunication",
+    "department": "Department of Telecommunications",
+    "school": "School of Information Technology and Communication (SITC)",
+    "total_credit_hours": null,
+    "source": "BSc_Telecom_2022.docx (semester-by-semester study plan), provided by student, accessed 2026",
+    "semesters": {
+      "Year 1 Semester 1": [
+        {
+          "code": "GEL 101",
+          "title": "Use of English I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 101",
+          "title": "Calculus I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 101",
+          "title": "Introduction to I.C.T.",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 102",
+          "title": "Introduction to Computing & I.S",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 103",
+          "title": "Programming Logic and Design",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 104",
+          "title": "Ethics for Computing and Engineering",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        }
+      ],
+      "Year 1 Semester 2": [
+        {
+          "code": "GEL 102",
+          "title": "Use of English 102",
+          "credits": 3,
+          "prerequisite": "GEL 101",
+          "category": "GER"
+        },
+        {
+          "code": "SCI 101",
+          "title": "Introduction to General Science",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 102",
+          "title": "Calculus II",
+          "credits": 3,
+          "prerequisite": "MTH 101",
+          "category": "DER"
+        },
+        {
+          "code": "GER 107",
+          "title": "Cultural Studies",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 110",
+          "title": "Computer Programming I",
+          "credits": 4,
+          "prerequisite": "ICT 103",
+          "category": "DER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose any 1)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        }
+      ],
+      "Year 2 Semester 1": [
+        {
+          "code": "FRE 101",
+          "title": "Elementary French I or any Foreign Language",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "PHY 101",
+          "title": "Fundamentals of Physics I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 201",
+          "title": "Computer Architecture & Organization",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 202",
+          "title": "Computer Programming II",
+          "credits": 3,
+          "prerequisite": "ICT 110",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 203",
+          "title": "Computer Networking I",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 204",
+          "title": "Database Systems I",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        }
+      ],
+      "Year 2 Semester 2": [
+        {
+          "code": "FRE 102",
+          "title": "Elementary French II or any Foreign",
+          "credits": 3,
+          "prerequisite": "FRE 101",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Humanistic Tradition (Choose 1 Outside Major)",
+          "credits": 4,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 203",
+          "title": "Linear Algebra",
+          "credits": 3,
+          "prerequisite": "MTH 102",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 210",
+          "title": "Data Structure & Algorithms",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 211",
+          "title": "Principles of Operating System",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        }
+      ],
+      "Year 3 Semester 1": [
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Economics & Mgt. Tradition (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 301",
+          "title": "Probability and Statistic I",
+          "credits": 3,
+          "prerequisite": "MTH 102",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 301",
+          "title": "Project Management",
+          "credits": 3,
+          "prerequisite": "ICT 101",
+          "category": "DER"
+        },
+        {
+          "code": "TEL 301",
+          "title": "Analog and Digital Communications",
+          "credits": 3,
+          "prerequisite": "ICT 101",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 302",
+          "title": "Designing and Implementing Wi-Fi and VoIP Network",
+          "credits": 3,
+          "prerequisite": "ICT 203",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 303",
+          "title": "Designing and Administering Internetworks Infrastructure",
+          "credits": 3,
+          "prerequisite": "ICT 203",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 3 Semester 2": [
+        {
+          "code": "TEL 310",
+          "title": "Digital Systems",
+          "credits": 3,
+          "prerequisite": "TEL 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 311",
+          "title": "Switching and Automata Theory",
+          "credits": 3,
+          "prerequisite": "TEL 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 312",
+          "title": "Telecommunication Network Management",
+          "credits": 3,
+          "prerequisite": "TEL 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 313",
+          "title": "Satellite Technology",
+          "credits": 3,
+          "prerequisite": "TEL 303",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 315",
+          "title": "Fiber-Optic Communications",
+          "credits": 3,
+          "prerequisite": "TEL 303",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 315",
+          "title": "Research Methodology in IT",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 1": [
+        {
+          "code": "TEL 401",
+          "title": "Mathematics for Engineers",
+          "credits": 3,
+          "prerequisite": "TEL 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 402",
+          "title": "Radio Frequency & Microwave Engineering",
+          "credits": 3,
+          "prerequisite": "TEL 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 403",
+          "title": "Mobile Computing & Wireless Networks",
+          "credits": 3,
+          "prerequisite": "TEL 303",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 404",
+          "title": "Digital Signal Processing",
+          "credits": 3,
+          "prerequisite": "TEL 307",
+          "category": "MAJOR"
+        },
+        {
+          "code": "TEL 405",
+          "title": "Telecommunication Quality of Service Audit",
+          "credits": 3,
+          "prerequisite": "TEL 307",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 406",
+          "title": "Seminar",
+          "credits": 3,
+          "prerequisite": "ICT 315",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 2": [
+        {
+          "code": "TEL 407",
+          "title": "Legal and Regulatory Issues in Telecommunications",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 408",
+          "title": "Final Project",
+          "credits": 6,
+          "prerequisite": "ICT 406",
+          "category": "MAJOR"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        }
+      ]
+    },
+    "electives": [
+      {
+        "code": "TEL 409",
+        "title": "Telecommunications Technology",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 410",
+        "title": "Telecommunications Switching and Transmission",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 411",
+        "title": "Broadband and Advance Communication",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 412",
+        "title": "Sensor Networks and Intelligent Systems",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 413",
+        "title": "Internet of Things",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 414",
+        "title": "Radio Access Technologies",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 415",
+        "title": "Mobile Computing",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "TEL 416",
+        "title": "Computer Systems and Networks",
+        "credits": null,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      }
+    ],
+    "ger_breakdown": [
+      {
+        "competency": "Writing Competence",
+        "requirement": "GEL 101: Use of English 1 and GEL 102: Use of English 2",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Mathematics competence",
+        "requirement": "MTH 103: Basic Mathematics or MTH 101: Calculus 1 (for all science students)",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Information Technology Competence",
+        "requirement": "CPS 111: Introduction to Information Communication Technology (ICT)",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Foreign Language Competence",
+        "requirement": "Any language offered except English: French 1&2, Arabic 1&2, or Spanish 1&2 (majors/minors in French or Islamic Studies take FRE/ARB 103 & 104 instead)",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Humanistic Tradition",
+        "requirement": "GER 107: Cultural Studies plus one other course outside the student's major area (History, Literature, Philosophy, Law, or Religious Studies)",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Social and Behavioural Sciences",
+        "requirement": "Two courses from: Psychology, Anthropology, Geography, Political Science, Sociology, Development and Gender Issues",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "General Science Competence",
+        "requirement": "SCI 101: Introduction to General Science",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Economics and Management Tradition",
+        "requirement": "MGT 100: Introduction to Management or ECO 200: Economics of Development",
+        "hours": "3 semester hours"
+      }
+    ],
+    "minor_offered": false
+  },
+  "information_systems": {
+    "full_name": "BSc (Hons) Information Systems",
+    "department": "Department of Information Systems",
+    "school": "School of Information Technology and Communication (SITC)",
+    "total_credit_hours": 148,
+    "source": "BSc (Hons) Information Systems Study Plan.pdf, provided by student, accessed 2026",
+    "semesters": {
+      "Year 1 Semester 1": [
+        {
+          "code": "GEL 101",
+          "title": "Use of English I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 101",
+          "title": "Calculus I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 101",
+          "title": "Introduction to I.C.T.",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 102",
+          "title": "Introduction to Computing & I.S",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 103",
+          "title": "Programming Logic and Design",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 104",
+          "title": "Ethics for Computing and Engineering",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        }
+      ],
+      "Year 1 Semester 2": [
+        {
+          "code": "GEL 102",
+          "title": "Use of English 102",
+          "credits": 3,
+          "prerequisite": "GEL 101",
+          "category": "GER"
+        },
+        {
+          "code": "SCI 101",
+          "title": "Introduction to General Science",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "GER 107",
+          "title": "Cultural Studies",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "MTH 102",
+          "title": "Calculus II",
+          "credits": 3,
+          "prerequisite": "MTH 101",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 110",
+          "title": "Computer Programming I",
+          "credits": 4,
+          "prerequisite": "ICT 103",
+          "category": "DER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        }
+      ],
+      "Year 2 Semester 1": [
+        {
+          "code": "FRE 101",
+          "title": "Elementary French I or any Foreign",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "PHY 101",
+          "title": "Fundamentals of Physics I",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 201",
+          "title": "Computer Architecture & Organization",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 202",
+          "title": "Computer Programming II",
+          "credits": 4,
+          "prerequisite": "ICT 110",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 203",
+          "title": "Computer Networking I",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 204",
+          "title": "Database Systems I",
+          "credits": 4,
+          "prerequisite": "ICT 102",
+          "category": "DER"
+        }
+      ],
+      "Year 2 Semester 2": [
+        {
+          "code": "FRE 102",
+          "title": "Elementary French II or any Foreign",
+          "credits": 3,
+          "prerequisite": "FRE 101",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Social and Behavioral Sciences (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Humanistic Tradition (Choose 1 Outside Major)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 210",
+          "title": "Data Structure & Algorithms",
+          "credits": 4,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        },
+        {
+          "code": "ICT 211",
+          "title": "Principles of Operating System",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "DER"
+        },
+        {
+          "code": "MTH 203",
+          "title": "Linear Algebra",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "DER"
+        }
+      ],
+      "Year 3 Semester 1": [
+        {
+          "code": "GER-ELECTIVE",
+          "title": "Economics & Mgt. Tradition (Choose 1 Course)",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "GER"
+        },
+        {
+          "code": "ICT 301",
+          "title": "Project Management",
+          "credits": 3,
+          "prerequisite": "ICT 101",
+          "category": "DER"
+        },
+        {
+          "code": "MTH 301",
+          "title": "Probability and Statistics",
+          "credits": 3,
+          "prerequisite": "MTH 102",
+          "category": "DER"
+        },
+        {
+          "code": "INS 301",
+          "title": "Systems Analysis & Design",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 302",
+          "title": "Information Resource Management",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 303",
+          "title": "Data Engineering",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 304",
+          "title": "Systems Administration and Security",
+          "credits": 3,
+          "prerequisite": "ICT 102",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 3 Semester 2": [
+        {
+          "code": "INS 305",
+          "title": "Access Control Sys. & Methodology",
+          "credits": 3,
+          "prerequisite": "INS 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 306",
+          "title": "Service Centric and Cloud Computing",
+          "credits": 3,
+          "prerequisite": "ICT 201",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 307",
+          "title": "E-Business for Development",
+          "credits": 3,
+          "prerequisite": "INS 303",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 308",
+          "title": "Internetworking & TCP/IP",
+          "credits": 3,
+          "prerequisite": "ICT 203",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 309",
+          "title": "Advanced Application Development",
+          "credits": 3,
+          "prerequisite": "ICT 202",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 315",
+          "title": "Research Methodology in IT",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 1": [
+        {
+          "code": "INS 401",
+          "title": "Business Continuity & Recovery Planning",
+          "credits": 3,
+          "prerequisite": "INS 306",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 402",
+          "title": "Cross Platform & Enterprise Integration",
+          "credits": 3,
+          "prerequisite": "INS 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 403",
+          "title": "Computer Forensics",
+          "credits": 3,
+          "prerequisite": "INS 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 404",
+          "title": "Security Script Programming",
+          "credits": 3,
+          "prerequisite": "INS 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "INS 405",
+          "title": "Process Modelling & Solution Blueprint",
+          "credits": 3,
+          "prerequisite": "ICT 301",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 406",
+          "title": "Seminar",
+          "credits": 3,
+          "prerequisite": "ICT 315",
+          "category": "MAJOR"
+        }
+      ],
+      "Year 4 Semester 2": [
+        {
+          "code": "INS 407",
+          "title": "Information Security & Auditing",
+          "credits": 3,
+          "prerequisite": "INS 304",
+          "category": "MAJOR"
+        },
+        {
+          "code": "ICT 408",
+          "title": "Project",
+          "credits": 6,
+          "prerequisite": "ICT 406",
+          "category": "MAJOR"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        },
+        {
+          "code": "400-LEVEL-ELECTIVE",
+          "title": "400 Level Elective",
+          "credits": 3,
+          "prerequisite": "None",
+          "category": "ELECTIVE"
+        }
+      ]
+    },
+    "electives": [
+      {
+        "code": "INS 409",
+        "title": "Entrepreneurship (Strongly recommended)",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 410",
+        "title": "Foundations of Cryptography",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 411",
+        "title": "Management Process and Organization Behavior",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 412",
+        "title": "Introduction to Cyber Security",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 413",
+        "title": "Internet and Web Technologies",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 414",
+        "title": "Applications in Information Security and Assurance",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 415",
+        "title": "Policy and Administration in Information Security and Assurance",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 416",
+        "title": "UNIX System Administration & Security",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 417",
+        "title": "Human Computer Interaction",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      },
+      {
+        "code": "INS 418",
+        "title": "Geographic Information Systems",
+        "credits": 3,
+        "prerequisite": null,
+        "category": "ELECTIVE"
+      }
+    ],
+    "electives_note": "Choose two 400-level electives in Year 4 Semester II. INS 409 Entrepreneurship is marked as strongly recommended.",
+    "ger_breakdown": [
+      {
+        "competency": "Writing Competence",
+        "requirement": "GEL 101: Use of English 1 and GEL 102: Use of English 2",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Mathematics competence",
+        "requirement": "MTH 103: Basic Mathematics or MTH 101: Calculus 1 (for all science students)",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Information Technology Competence",
+        "requirement": "CPS 111: Introduction to Information Communication Technology (ICT)",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Foreign Language Competence",
+        "requirement": "Any language offered except English: French 1&2, Arabic 1&2, or Spanish 1&2 (majors/minors in French or Islamic Studies take FRE/ARB 103 & 104 instead)",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Humanistic Tradition",
+        "requirement": "GER 107: Cultural Studies plus one other course outside the student's major area (History, Literature, Philosophy, Law, or Religious Studies)",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "Social and Behavioural Sciences",
+        "requirement": "Two courses from: Psychology, Anthropology, Geography, Political Science, Sociology, Development and Gender Issues",
+        "hours": "6 semester hours"
+      },
+      {
+        "competency": "General Science Competence",
+        "requirement": "SCI 101: Introduction to General Science",
+        "hours": "3 semester hours"
+      },
+      {
+        "competency": "Economics and Management Tradition",
+        "requirement": "MGT 100: Introduction to Management or ECO 200: Economics of Development",
+        "hours": "3 semester hours"
+      }
+    ],
+    "minor_offered": false
+  }
+}

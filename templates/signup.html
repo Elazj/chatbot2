@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Sign up{% endblock %}
+{% block body_class %}auth-page{% endblock %}
+{% block body %}
+<main class="auth-card">
+  <header class="auth-head">
+    <span class="wordmark">Nocturna</span>
+    <span class="tagline">University of The Gambia — Student Assistant</span>
+  </header>
+
+  <h1>Create your account</h1>
+  <p class="auth-sub">Your chats, notes and reminders are saved to your account only.</p>
+
+  <form method="post" action="{{ url_for('auth.signup') }}" class="auth-form" novalidate>
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+    <label for="full_name">Full name (first name and second name)</label>
+    <input id="full_name" name="full_name" type="text" value="{{ form.full_name }}" autocomplete="name" maxlength="80" required autofocus>
+    {% if errors.full_name %}<p class="field-error" role="alert">{{ errors.full_name }}</p>{% endif %}
+
+    <label for="email">UTG student email</label>
+    <input id="email" name="email" type="email" value="{{ form.email }}" autocomplete="email" maxlength="254" placeholder="aj2211234@utg.edu.gm" aria-describedby="email-help" required>
+    <p class="hint" id="email-help">First letter of your first name, first letter of your second name, your student number, then @utg.edu.gm.</p>
+    {% if errors.email %}<p class="field-error" role="alert">{{ errors.email }}</p>{% endif %}
+
+    <label for="password">Password</label>
+    <input id="password" name="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required>
+    <p class="hint">At least 8 characters.</p>
+    {% if errors.password %}<p class="field-error" role="alert">{{ errors.password }}</p>{% endif %}
+
+    <label for="confirm">Confirm password</label>
+    <input id="confirm" name="confirm" type="password" autocomplete="new-password" maxlength="128" required>
+    {% if errors.confirm %}<p class="field-error" role="alert">{{ errors.confirm }}</p>{% endif %}
+
+    <button type="submit" class="primary">Create account</button>
+  </form>
+
+  <p class="auth-switch">Already have an account? <a href="{{ url_for('auth.login') }}">Log in</a></p>
+</main>
+{% endblock %}

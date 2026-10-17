@@ -1,0 +1,141 @@
+method,query,category,expected_question,matched_question,confidence,correct,latency_s
+keyword,what is the university of the gambia,direct,what is the university of the gambia,what is the university of the gambia,1.0,True,0.0
+keyword,what schools and faculties does utg have,direct,what schools and faculties does utg have,what schools and faculties does utg have,1.0,True,0.0
+keyword,what computer science and ict programmes does utg offer,direct,what computer science and ict programmes does utg offer,what computer science and ict programmes does utg offer,1.0,True,0.0
+keyword,what are the admission requirements for computer science at utg,direct,what are the admission requirements for computer science at utg,what are the admission requirements for computer science at utg,1.0,True,0.0
+keyword,how much is tuition at utg,direct,how much is tuition at utg,how much is tuition at utg,1.0,True,0.0
+keyword,how much do the six month ict diploma programmes cost,direct,how much do the six month ict diploma programmes cost,how much do the six month ict diploma programmes cost,1.0,True,0.0
+keyword,what requirements do i need for the diploma programmes,direct,what requirements do i need for the diploma programmes,what requirements do i need for the diploma programmes,1.0,True,0.0
+keyword,what undergraduate programmes does the school of arts and sciences offer,direct,what undergraduate programmes does the school of arts and sciences offer,what undergraduate programmes does the school of arts and sciences offer,1.0,True,0.0
+keyword,what programmes does the school of business and public administration offer,direct,what programmes does the school of business and public administration offer,what programmes does the school of business and public administration offer,1.0,True,0.0
+keyword,what programmes does the school of education offer,direct,what programmes does the school of education offer,what programmes does the school of education offer,1.0,True,0.0
+keyword,what programmes does the school of medicine offer,direct,what programmes does the school of medicine offer,what programmes does the school of medicine offer,1.0,True,0.0
+keyword,does utg have a law programme,direct,does utg have a law programme,does utg have a law programme,1.0,True,0.0
+keyword,who do i contact about my transcript or registry questions,direct,who do i contact about my transcript or registry questions,who do i contact about my transcript or registry questions,1.0,True,0.0
+keyword,who do i contact about utg email or wifi setup,direct,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,1.0,True,0.0
+keyword,where is utg located,direct,where is utg located,where is utg located,1.0,True,0.0
+keyword,how do i apply to utg,direct,how do i apply to utg,how do i apply to utg,1.0,True,0.0
+keyword,is there a utg student portal,direct,is there a utg student portal,is there a utg student portal,1.0,True,0.0
+keyword,who is the dean of the school of ict,direct,who is the dean of the school of ict,who is the dean of the school of ict,1.0,True,0.0
+keyword,what is utg's general contact email and phone number,direct,what is utg's general contact email and phone number,what is utg's general contact email and phone number,1.0,True,0.0
+keyword,are there any new programmes recently added at utg,direct,are there any new programmes recently added at utg,are there any new programmes recently added at utg,1.0,True,0.0
+keyword,tell me about the university of the gambia,paraphrase,what is the university of the gambia,what is the university of the gambia,0.667,True,0.0
+keyword,list the faculties at utg,paraphrase,what schools and faculties does utg have,what schools and faculties does utg have,0.667,True,0.0
+keyword,does utg have a computer science degree,paraphrase,what computer science and ict programmes does utg offer,what computer science and ict programmes does utg offer,0.6,True,0.0
+keyword,what do i need to get into the cs programme,paraphrase,what are the admission requirements for computer science at utg,,0.2,False,0.0
+keyword,what's the cost of studying at utg,paraphrase,how much is tuition at utg,what is utg's general contact email and phone number,0.5,False,0.0
+keyword,price of the ict diploma courses,paraphrase,how much do the six month ict diploma programmes cost,how much do the six month ict diploma programmes cost,0.5,True,0.0
+keyword,entry requirements for the short diploma courses,paraphrase,what requirements do i need for the diploma programmes,what requirements do i need for the diploma programmes,0.4,True,0.0
+keyword,what can i study in arts and sciences,paraphrase,what undergraduate programmes does the school of arts and sciences offer,what undergraduate programmes does the school of arts and sciences offer,0.667,True,0.0
+keyword,business programmes available at utg,paraphrase,what programmes does the school of business and public administration offer,what computer science and ict programmes does utg offer,0.5,False,0.0
+keyword,teaching degrees offered at utg,paraphrase,what programmes does the school of education offer,,0.25,False,0.0
+keyword,medical programmes at utg,paraphrase,what programmes does the school of medicine offer,what computer science and ict programmes does utg offer,0.667,False,0.0
+keyword,can i study law at utg,paraphrase,does utg have a law programme,does utg have a law programme,0.667,True,0.0
+keyword,who handles transcripts at utg,paraphrase,who do i contact about my transcript or registry questions,,0.333,False,0.0
+keyword,how do i set up my utg email account,paraphrase,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,0.4,True,0.0
+keyword,utg campus address,paraphrase,where is utg located,,0.333,False,0.0
+keyword,steps to apply for admission at utg,paraphrase,how do i apply to utg,what are the admission requirements for computer science at utg,0.5,False,0.0
+keyword,does utg have an online student portal,paraphrase,is there a utg student portal,is there a utg student portal,0.6,True,0.0
+keyword,who heads the ict school,paraphrase,who is the dean of the school of ict,who is the dean of the school of ict,0.667,True,0.0
+keyword,utg's phone number and email,paraphrase,what is utg's general contact email and phone number,what is utg's general contact email and phone number,1.0,True,0.0
+keyword,any new degree programmes utg just launched,paraphrase,are there any new programmes recently added at utg,are there any new programmes recently added at utg,0.571,True,0.0
+keyword,um so like what are the admission requirements for uh computer science,noisy,what are the admission requirements for computer science at utg,what are the admission requirements for computer science at utg,0.5,True,0.0
+keyword,hey nocturna how much is tuition,noisy,how much is tuition at utg,how much is tuition at utg,0.5,True,0.0
+keyword,so where exactly is utg located again,noisy,where is utg located,where is utg located,0.4,True,0.0
+keyword,can you tell me um who's the dean of ict,noisy,who is the dean of the school of ict,who is the dean of the school of ict,0.4,True,0.0
+keyword,i wanna know about the diploma price thing,noisy,how much do the six month ict diploma programmes cost,,0.2,False,0.0
+keyword,er what schools does the university have,noisy,what schools and faculties does utg have,what schools and faculties does utg have,0.5,True,0.0
+keyword,is there like a portal for students,noisy,is there a utg student portal,is there a utg student portal,0.5,True,0.0
+keyword,how do you apply like what's the process,noisy,how do i apply to utg,,0.25,False,0.0
+keyword,who do i email about my wifi not working,noisy,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,0.5,True,0.0
+keyword,new programs utg added recently right,noisy,are there any new programmes recently added at utg,are there any new programmes recently added at utg,0.667,True,0.0
+keyword,what time does the cafeteria open,out_of_scope,,,0.0,True,0.0
+keyword,is there a football team at utg,out_of_scope,,is there a utg student portal,0.5,False,0.0
+keyword,can i get a scholarship for sports,out_of_scope,,,0.0,True,0.0
+keyword,what is the capital of senegal,out_of_scope,,,0.0,True,0.0
+keyword,how do i cook domoda,out_of_scope,,,0.0,True,0.0
+keyword,what's the weather like today,out_of_scope,,,0.25,True,0.0
+keyword,tell me a joke,out_of_scope,,,0.0,True,0.0
+keyword,what time is it,out_of_scope,,,0.0,True,0.0
+keyword,where can i print my assignment on campus,out_of_scope,,,0.0,True,0.0
+keyword,does utg have a gym,out_of_scope,,what schools and faculties does utg have,0.667,False,0.0
+keyword,how many students attend utg,out_of_scope,,,0.25,True,0.0
+keyword,who is the president of the gambia,out_of_scope,,what is the university of the gambia,0.5,False,0.0
+keyword,what bus goes to utg,out_of_scope,,,0.333,True,0.0
+keyword,can international students get financial aid,out_of_scope,,,0.0,True,0.0
+keyword,what's the dress code at utg,out_of_scope,,what is utg's general contact email and phone number,0.5,False,0.0
+keyword,does utg have a hostel or dormitory,out_of_scope,,what schools and faculties does utg have,0.5,False,0.0
+keyword,how do i reset my portal password,out_of_scope,,,0.333,True,0.0
+keyword,what sports facilities are on campus,out_of_scope,,,0.0,True,0.0
+keyword,can i transfer credits from another university,out_of_scope,,,0.2,True,0.0
+keyword,how do i get a student id card,out_of_scope,,,0.25,True,0.0
+tfidf,what is the university of the gambia,direct,what is the university of the gambia,what is the university of the gambia,1.0,True,0.0182
+tfidf,what schools and faculties does utg have,direct,what schools and faculties does utg have,what schools and faculties does utg have,1.0,True,0.0008
+tfidf,what computer science and ict programmes does utg offer,direct,what computer science and ict programmes does utg offer,what computer science and ict programmes does utg offer,1.0,True,0.0005
+tfidf,what are the admission requirements for computer science at utg,direct,what are the admission requirements for computer science at utg,what are the admission requirements for computer science at utg,1.0,True,0.0004
+tfidf,how much is tuition at utg,direct,how much is tuition at utg,how much is tuition at utg,1.0,True,0.0004
+tfidf,how much do the six month ict diploma programmes cost,direct,how much do the six month ict diploma programmes cost,how much do the six month ict diploma programmes cost,1.0,True,0.0006
+tfidf,what requirements do i need for the diploma programmes,direct,what requirements do i need for the diploma programmes,what requirements do i need for the diploma programmes,1.0,True,0.0005
+tfidf,what undergraduate programmes does the school of arts and sciences offer,direct,what undergraduate programmes does the school of arts and sciences offer,what undergraduate programmes does the school of arts and sciences offer,1.0,True,0.0005
+tfidf,what programmes does the school of business and public administration offer,direct,what programmes does the school of business and public administration offer,what programmes does the school of business and public administration offer,1.0,True,0.0005
+tfidf,what programmes does the school of education offer,direct,what programmes does the school of education offer,what programmes does the school of education offer,1.0,True,0.0005
+tfidf,what programmes does the school of medicine offer,direct,what programmes does the school of medicine offer,what programmes does the school of medicine offer,1.0,True,0.0004
+tfidf,does utg have a law programme,direct,does utg have a law programme,does utg have a law programme,1.0,True,0.0004
+tfidf,who do i contact about my transcript or registry questions,direct,who do i contact about my transcript or registry questions,who do i contact about my transcript or registry questions,1.0,True,0.0004
+tfidf,who do i contact about utg email or wifi setup,direct,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,1.0,True,0.0004
+tfidf,where is utg located,direct,where is utg located,where is utg located,1.0,True,0.0004
+tfidf,how do i apply to utg,direct,how do i apply to utg,how do i apply to utg,1.0,True,0.0004
+tfidf,is there a utg student portal,direct,is there a utg student portal,is there a utg student portal,1.0,True,0.0004
+tfidf,who is the dean of the school of ict,direct,who is the dean of the school of ict,who is the dean of the school of ict,1.0,True,0.0004
+tfidf,what is utg's general contact email and phone number,direct,what is utg's general contact email and phone number,what is utg's general contact email and phone number,1.0,True,0.0005
+tfidf,are there any new programmes recently added at utg,direct,are there any new programmes recently added at utg,are there any new programmes recently added at utg,1.0,True,0.0004
+tfidf,tell me about the university of the gambia,paraphrase,what is the university of the gambia,what is the university of the gambia,1.0,True,0.0005
+tfidf,list the faculties at utg,paraphrase,what schools and faculties does utg have,what schools and faculties does utg have,0.689,True,0.0004
+tfidf,does utg have a computer science degree,paraphrase,what computer science and ict programmes does utg offer,what computer science and ict programmes does utg offer,0.777,True,0.0005
+tfidf,what do i need to get into the cs programme,paraphrase,what are the admission requirements for computer science at utg,,0.442,False,0.0004
+tfidf,what's the cost of studying at utg,paraphrase,how much is tuition at utg,how much do the six month ict diploma programmes cost,0.471,False,0.0004
+tfidf,price of the ict diploma courses,paraphrase,how much do the six month ict diploma programmes cost,how much do the six month ict diploma programmes cost,0.615,True,0.0004
+tfidf,entry requirements for the short diploma courses,paraphrase,what requirements do i need for the diploma programmes,what requirements do i need for the diploma programmes,0.736,True,0.0005
+tfidf,what can i study in arts and sciences,paraphrase,what undergraduate programmes does the school of arts and sciences offer,what undergraduate programmes does the school of arts and sciences offer,0.663,True,0.0004
+tfidf,business programmes available at utg,paraphrase,what programmes does the school of business and public administration offer,what programmes does the school of business and public administration offer,0.496,True,0.0004
+tfidf,teaching degrees offered at utg,paraphrase,what programmes does the school of education offer,,0.422,False,0.0004
+tfidf,medical programmes at utg,paraphrase,what programmes does the school of medicine offer,,0.386,False,0.0004
+tfidf,can i study law at utg,paraphrase,does utg have a law programme,does utg have a law programme,0.689,True,0.0004
+tfidf,who handles transcripts at utg,paraphrase,who do i contact about my transcript or registry questions,,0.422,False,0.0004
+tfidf,how do i set up my utg email account,paraphrase,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,0.523,True,0.0004
+tfidf,utg campus address,paraphrase,where is utg located,,0.422,False,0.0005
+tfidf,steps to apply for admission at utg,paraphrase,how do i apply to utg,how do i apply to utg,0.741,True,0.0006
+tfidf,does utg have an online student portal,paraphrase,is there a utg student portal,is there a utg student portal,0.93,True,0.0005
+tfidf,who heads the ict school,paraphrase,who is the dean of the school of ict,who is the dean of the school of ict,0.721,True,0.0004
+tfidf,utg's phone number and email,paraphrase,what is utg's general contact email and phone number,what is utg's general contact email and phone number,0.805,True,0.0004
+tfidf,any new degree programmes utg just launched,paraphrase,are there any new programmes recently added at utg,are there any new programmes recently added at utg,0.657,True,0.0004
+tfidf,um so like what are the admission requirements for uh computer science,noisy,what are the admission requirements for computer science at utg,what are the admission requirements for computer science at utg,0.969,True,0.0004
+tfidf,hey nocturna how much is tuition,noisy,how much is tuition at utg,how much is tuition at utg,0.907,True,0.0005
+tfidf,so where exactly is utg located again,noisy,where is utg located,where is utg located,1.0,True,0.0004
+tfidf,can you tell me um who's the dean of ict,noisy,who is the dean of the school of ict,who is the dean of the school of ict,0.885,True,0.0004
+tfidf,i wanna know about the diploma price thing,noisy,how much do the six month ict diploma programmes cost,what requirements do i need for the diploma programmes,0.521,False,0.0004
+tfidf,er what schools does the university have,noisy,what schools and faculties does utg have,what schools and faculties does utg have,0.549,True,0.0005
+tfidf,is there like a portal for students,noisy,is there a utg student portal,is there a utg student portal,0.672,True,0.0004
+tfidf,how do you apply like what's the process,noisy,how do i apply to utg,how do i apply to utg,0.907,True,0.0005
+tfidf,who do i email about my wifi not working,noisy,who do i contact about utg email or wifi setup,who do i contact about utg email or wifi setup,0.7,True,0.0004
+tfidf,new programs utg added recently right,noisy,are there any new programmes recently added at utg,are there any new programmes recently added at utg,0.956,True,0.0005
+tfidf,what time does the cafeteria open,out_of_scope,,,0.367,True,0.0004
+tfidf,is there a football team at utg,out_of_scope,,,0.422,True,0.0004
+tfidf,can i get a scholarship for sports,out_of_scope,,,0.0,True,0.0004
+tfidf,what is the capital of senegal,out_of_scope,,,0.0,True,0.0005
+tfidf,how do i cook domoda,out_of_scope,,,0.0,True,0.0005
+tfidf,what's the weather like today,out_of_scope,,,0.0,True,0.0004
+tfidf,tell me a joke,out_of_scope,,,0.0,True,0.0004
+tfidf,what time is it,out_of_scope,,,0.0,True,0.0004
+tfidf,where can i print my assignment on campus,out_of_scope,,,0.0,True,0.0006
+tfidf,does utg have a gym,out_of_scope,,what schools and faculties does utg have,0.468,False,0.0004
+tfidf,how many students attend utg,out_of_scope,,,0.422,True,0.0004
+tfidf,who is the president of the gambia,out_of_scope,,what is the university of the gambia,0.707,False,0.0004
+tfidf,what bus goes to utg,out_of_scope,,,0.422,True,0.0005
+tfidf,can international students get financial aid,out_of_scope,,,0.0,True,0.0005
+tfidf,what's the dress code at utg,out_of_scope,,,0.422,True,0.0004
+tfidf,does utg have a hostel or dormitory,out_of_scope,,what schools and faculties does utg have,0.468,False,0.0004
+tfidf,how do i reset my portal password,out_of_scope,,is there a utg student portal,0.672,False,0.0004
+tfidf,what sports facilities are on campus,out_of_scope,,,0.0,True,0.0004
+tfidf,can i transfer credits from another university,out_of_scope,,what is the university of the gambia,0.707,False,0.0005
+tfidf,how do i get a student id card,out_of_scope,,is there a utg student portal,0.672,False,0.0005
