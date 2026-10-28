@@ -5,7 +5,7 @@
     "source": "utg.edu.gm - Home / About UTG"
   },
   {
-    "question": "what schools and faculties does utg have",
+    "question": "what schools and faculties does utg have or how many schools and faculties does utg have?",
     "answer": "UTG has nine schools and faculties: Agriculture and Environment Sciences, Arts and Sciences, Business and Public Administration, Education, Engineering and Architecture, Information Technology and Communications, Journalism and Digital Media, Law, and Medicine and Allied Health Sciences.",
     "source": "utg.edu.gm - Schools & Faculties"
   },
@@ -20,14 +20,19 @@
     "source": "utg.edu.gm - School of ICT, Admission Requirements"
   },
   {
-    "question": "how much is tuition at utg",
-    "answer": "The standard annual tuition fee is 38,000 dalasis for Gambian students and 4,950 US dollars for international students, payable in full or as two instalments per semester. Students must have paid at least 40 percent of fees due to be allowed to sit examinations.",
+    "question": "how much is tuition at utg, and how do i pay",
+    "answer": "  Annual tuition fees at UTG range from GMD 31,800 to GMD 40,000 for Gambian students (GMD 70,000 for mature law students) and $3,750 to $4,950 for international students, depending on the faculty. An additional GMD 1,200 annual fee is charged for library, IT, union, and development services. To register for classes and sit for examinations, students must pay a minimum installment of 40% of their semester fees, which can be processed through Trust Bank, GTBank, or EcoBank. These payments must be made to be allowed to sit examinations.",
     "source": "utg.edu.gm - School of ICT, Tuition Fee"
   },
   {
-    "question": "how much do the six month ict diploma programmes cost",
-    "answer": "The six-month diploma programmes in Networking and Cloud Computing, Full-Stack Web Development, Data Science, Cyber Security and Ethical Hacking, and Artificial Intelligence each cost 26,500 dalasis, with a 10 percent discount for current UTG students and staff, plus a separate 1,100 dalasi application payment.",
-    "source": "utg.edu.gm - School of ICT, Diploma Programmes"
+    "question": "how many credit hours are in the computer science degree",
+    "answer": "The BSc in Computer Science is a four-year undergraduate programme that requires the completion of 120 credit hours.",
+    "source": "utg.edu.gm - School of ICT, Computer Science Programme"
+  },
+  {
+    "question": "how many departments are in the school of ict",
+    "answer": "The School of Information, Technology and Communications has several departments, including the Department of Computer Science, the Department of Information Systems, and the Department of Telecommunications.",
+    "source": "utg.edu.gm - School of ICT, Departments"
   },
   {
     "question": "what requirements do i need for the diploma programmes",
@@ -71,12 +76,12 @@
   },
   {
     "question": "where is utg located",
-    "answer": "UTG has it's main administration at Kanifing on the MDI road, with the postal address P O Box 3530, Serrekunda, The Gambia. UTG also has a presence at it's Faraba Banta Campus where students go for lectures and other academic activities .",
+    "answer": "UTG's main administration is on MDI Road in Kanifing, with the postal address P O Box 3530, Serrekunda, The Gambia. UTG also has a presence at it's faraba banta campus where students currently go for lectures and other university activities.",
     "source": "utg.edu.gm - Get In Touch"
   },
   {
     "question": "how do i apply to utg",
-    "answer": "You can start an application through the Admissions section of the UTG website at utg.edu.gm, which has separate categories for undergraduate, graduate, and continuing education applicants.",
+    "answer": "To apply for the University of The Gambia (UTG), you must first pay the application fee at any Trust Bank, GTBank, or Ecobank branch—amounting to GMD 1,100 for undergraduate tracks (which includes one WASSCE result verification sheet), GMD 750 for master's programs, or GMD 1,000 for PhD tracks—while providing your mobile number to the teller. Within 48 hours, a unique 14-digit application PIN will be texted to your phone, which you can alternatively collect at the Kanifing Campus accounts office if the SMS fails to arrive. Next, visit the official UTG application portal (utg.gm) to create an account, log in, and enter your PIN to unlock the form. Finally, complete the online application by filling out stages 1 through 9, upload your required documents (including WASSCE results, ID, passport photo, and bank receipts), and await your official admission status notification via SMS and email.",
     "source": "utg.edu.gm - Admissions"
   },
   {
@@ -160,7 +165,7 @@
     "source": "UTG University Culture lecture notes 2014/2015 (photographed pages), pp. 10-11"
   },
   {
-    "question": "what duties and responsibilities does a student have",
+    "question": "what duties and responsibilities does a student have, or what are the duties of students.",
     "answer": "Students are expected to show up to class on time and take part in learning, avoid talking at inappropriate times such as during lectures, work hard for good grades, respect the highest standards of academic integrity, respect others' property and the university's property and facilities, and avoid actions that endanger the health, safety or welfare of anyone in the university community. The notes stress that university is for people who want to learn, not just collect a piece of paper.",
     "source": "UTG University Culture lecture notes 2014/2015 (photographed pages), p. 11"
   },
@@ -217,6 +222,11 @@
   {
     "question": "what is sohsa also written soshsa or shosha",
     "answer": "It is the sub-association for social sciences and humanities students. The students' union website writes it as SoSHSA (Social Sciences and Humanitarian Students' Association), the lecture notes write SOHSA, and news reports write SHoSHA. The notes give it as an example of the specialised school associations that the students' union coordinates.",
+    "source": "utgsu.utg.edu.gm - Sub Associations (accessed 9 Oct 2026); UTG University Culture lecture notes 2014/2015 (photographed pages), p. 14"
+  },
+  {
+    "question": "what is itca",
+    "answer": "Itca is the student association for the School of Information, Technology and Communications.",
     "source": "utgsu.utg.edu.gm - Sub Associations (accessed 9 Oct 2026); UTG University Culture lecture notes 2014/2015 (photographed pages), p. 14"
   },
   {
